@@ -81,7 +81,7 @@
 ### ローカル開発
 ```bash
 # リポジトリをクローン
-git clone https://github.com/yourusername/othello-game.git
+git clone https://github.com/SilentMalachite/othello-game.git
 
 # ファイルをブラウザで開く
 open othello.html
